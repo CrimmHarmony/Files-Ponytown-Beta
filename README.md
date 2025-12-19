@@ -1,7 +1,7 @@
 
-<p align="center"><p style="color:purple;"><b>Welcome to my GitHub</b></p>
-<p align="center">I discovered that there is a handful of players on Pony Town that have a GitGub account attached to their profiles with more information about them. It seemed so silly to me, but now here I am trying to play around with it.
-At the bottom of this post there is a link that will take you to a Multiboard Magma Canvas where you can draw with your friends! Feel free to draw your OCs, or OCs you see on PonyTown. Leave your @s if you're particularly proud of a sketch! So come swing by to draw. I'd love to see what you guys do with this.</p>
+<p align="center"><b>Crimm's Github Page</b></p>
+<p aligh="center">For commission information and art exmaples ⟶ 
+<p align="center">It was brough to my attention recently that there's a niche amount of Pony Town players who have GitHub accounts attached to their pony avatars in-game with general information about their interests and links to other social media in their bios. I would have never thought to do something like this as a roundabout way to create a "profile" for fellow players to see. Now that I know it exists? I'm going to have some fun with it! </p>
 <p align="center">RULES</p>
 <p align="center">- Be respectful. Don't draw anything on here that would get you in trouble.</p>
 <p align="center">- No sexually explicit content. Let's keep this lighthearted, fun, and PG.</p>
