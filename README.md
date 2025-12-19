@@ -4,6 +4,11 @@
   <p align="center">For commission information and art examples ⟶ <a href=https://crimmharmony.carrd.co/ target="_blank" rel="noopener noreferrer">Click Here!</a>
   <p align="center"><img src="./CCrimmNEWCM.png" width="100"/></p>
   <p align="center">Pony Town Players got me straight Gitmaxxing it for fun</p>
+  <br> </br>
+  Check if I'm streaming!
+  <br> </br>
+  <p align="center">
+  <a href="https://picarto.tv/crimmharmony"><img src="https://img.shields.io/badge/Picarto.TV-d5d5d5?style=for-the-badge&logo=picartodottv&logoColor=0A0209" alt="picarto.tv profile of CrimmHarmony" /></a>
 </div>
 
 <br> </br>
