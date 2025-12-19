@@ -3,7 +3,7 @@
   <b>Pony/Furry Artist | 24 | Freelancer</b>
   <p align="center">For commission information and art examples ⟶ <a href=https://crimmharmony.carrd.co/ target="_blank" rel="noopener noreferrer">Click Here!</a>
   <p align="center"><img src="./CCrimmNEWCM.png" width="100"/></p>
-  <p align="center">It was brought to my attention recently that there's a niche amount of Pony Town players who have GitHub accounts attached to their pony avatars in-game with general information about their interests and links to other social media in their bios. I would have never thought to do something like this as a roundabout way to create a "profile" for fellow players to see. Now that I know it exists? I'm going to have some fun with it!</p>
+  <p align="center">Pony Town Players got me straight Gitmaxxing it for fun</p>
 </div>
 
 <br> </br>
